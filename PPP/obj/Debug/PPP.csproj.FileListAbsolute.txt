@@ -1,0 +1,102 @@
+C:\Users\user\Desktop\PPP\PPP\bin\Debug\PPP.exe.config
+C:\Users\user\Desktop\PPP\PPP\bin\Debug\PPP.exe
+C:\Users\user\Desktop\PPP\PPP\bin\Debug\PPP.pdb
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.Form1.resources
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.Properties.Resources.resources
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.exe
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.pdb
+C:\Users\user\Desktop\PPP\PPP\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\PPP\PPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\PPP\PPP\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\PPP\PPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.csproj.CopyComplete
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.Form2.resources
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.Form3.resources
+C:\Users\user\Desktop\PPP\PPP\obj\Debug\PPP.Form4.resources
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.csproj.AssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.Form1.resources
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.Form2.resources
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.Form3.resources
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.Form4.resources
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.Properties.Resources.resources
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.csproj.GenerateResource.cache
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.exe
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.pdb
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\bin\Debug\BD_Consultas.accdb
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\bin\Debug\PPP.exe.config
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\bin\Debug\PPP.exe
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\bin\Debug\PPP.pdb
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\bin\Debug\EntityFramework.dll
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\bin\Debug\EntityFramework.xml
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.csproj.CopyComplete
+C:\Users\nesto\OneDrive\Escritorio\PPP\PPP\obj\Debug\PPP.Form5.resources
+C:\Users\user\Desktop\Pia programacion\PPP\bin\Debug\PPP.exe.config
+C:\Users\user\Desktop\Pia programacion\PPP\bin\Debug\PPP.exe
+C:\Users\user\Desktop\Pia programacion\PPP\bin\Debug\PPP.pdb
+C:\Users\user\Desktop\Pia programacion\PPP\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Pia programacion\PPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Pia programacion\PPP\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Pia programacion\PPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.Form1.resources
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.Form2.resources
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.form3.resources
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.Form4.resources
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.Form5.resources
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.Properties.Resources.resources
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.csproj.CopyComplete
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.exe
+C:\Users\user\Desktop\Pia programacion\PPP\obj\Debug\PPP.pdb
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\bin\Debug\PPP.exe.config
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\bin\Debug\PPP.exe
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\bin\Debug\PPP.pdb
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\bin\Debug\EntityFramework.dll
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\bin\Debug\EntityFramework.xml
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.csproj.AssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.Form1.resources
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.Form2.resources
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.form3.resources
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.Form4.resources
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.Form5.resources
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.Form6.resources
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.Properties.Resources.resources
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.csproj.GenerateResource.cache
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.csproj.CopyComplete
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.exe
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\obj\Debug\PPP.pdb
+C:\Users\nesto\OneDrive\Escritorio\Pia programacion\PPP\bin\Debug\MySql.Data.dll
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\bin\Debug\PPP.exe.config
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\bin\Debug\PPP.exe
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\bin\Debug\PPP.pdb
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\bin\Debug\EntityFramework.dll
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\bin\Debug\EntityFramework.xml
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.csproj.AssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.Form1.resources
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.Form2.resources
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.form3.resources
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.Form4.resources
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.Form5.resources
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.Form6.resources
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.Properties.Resources.resources
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.csproj.GenerateResource.cache
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.csproj.Up2Date
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.exe
+C:\Users\nesto\OneDrive\Escritorio\5.1 - App de escritorio con C# y WinForms\Pia programacion\PPP\obj\Debug\PPP.pdb
